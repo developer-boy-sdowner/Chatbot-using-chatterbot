@@ -2,3 +2,4 @@ flask
 ChatterBot
 Spacy
 Numpy
+gunicorn==20.0.4
